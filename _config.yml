@@ -1,0 +1,28 @@
+name: Code Thoughts
+favicon: null
+layout_spectrum: 0.17025484959594905
+typography_spectrum: 0.8871626723557711
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.14507625764235854
+  lightness: 0.0257381834089756
+  saturation: 0.13746721693314612
+  rhythmicContrast: 0.9312654370442033
+purpose: []
